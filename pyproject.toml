@@ -39,9 +39,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/frame2app"
-Repository = "https://github.com/yourusername/frame2app"
-Issues = "https://github.com/yourusername/frame2app/issues"
+Homepage = "https://github.com/furqanrustam/frame2app"
+Repository = "https://github.com/furqanrustam/frame2app"
+Issues = "https://github.com/furqanrustam/frame2app/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
